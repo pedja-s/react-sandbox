@@ -1,7 +1,9 @@
+import CustomHookExample2 from './components/CustomHookExample2'
+
 function App() {
   return (
     <div className='container mt-5'>
-      <h1>Hello</h1>
+      <CustomHookExample2 />
     </div>
   )
 }
